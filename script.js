@@ -82,3 +82,23 @@
 //   console.log(i);
 //   i++;
 // } while (i <= 5);
+
+
+
+
+// (function yoxlama() {
+//   let davam = true;
+
+//   while (davam) {
+//     const input = prompt("eded daxil edin (50-dən kicik olmalidir):");
+
+//     const number = Number(input);
+
+//     console.log(number);
+
+//     if (number >= 50) {
+//       console.log("50den kicik deyil");
+//       davam = false;
+//     }
+//   }
+// })();
